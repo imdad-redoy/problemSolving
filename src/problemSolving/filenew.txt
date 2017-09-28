@@ -1,0 +1,2 @@
+I am Learning to extract line by line.
+from a file.
